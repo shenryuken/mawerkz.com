@@ -364,7 +364,7 @@ MA TRADING, is a dedicated bike products importer, wholesaler and distributor to
 			</div>
 		</div><!--numbers-->
 
-		<div class="home-reviews dark-bg">
+		<!-- <div class="home-reviews dark-bg">
 			<div class="container">
 				<div class="home-reviews__quote triangle triangle--services"><span class="fa  fa-quote-right"></span></div>
 				<div class="owl-carousel js-home-reviews enable-owl-carousel" data-auto-play="5000" data-stop-on-hover="true" data-items="2" data-pagination="true" data-navigation="false" data-items-desktop="2" data-items-desktop-small="2" data-items-tablet="1" data-items-tablet-small="1" >
@@ -438,9 +438,9 @@ MA TRADING, is a dedicated bike products importer, wholesaler and distributor to
 					</div>
 				</div>
 			</div>
-		</div><!--home-reviews-->
+		</div> --><!--home-reviews-->
 
-		<section class="services">
+		<!-- <section class="services">
 			<div class="container">
 				<div class="services__main">
 					<h2 class="title title--main wow fadeInRight" data-wow-delay="0.7s" data-wow-duration="1.5s"><span class="title__bold">Biker</span>ClubServices<span class="line line--title"><span class="line__first"></span><span class="line__second"></span></span></h2>
@@ -494,9 +494,9 @@ MA TRADING, is a dedicated bike products importer, wholesaler and distributor to
 					</div>
 				</div>
 			</div>
-		</section><!--services-->
+		</section> --><!--services-->
 
-		<section class="listings">
+		<!-- <section class="listings">
 			<div class="container">
 				<header class="tab-header clearfix wow fadeInUp" data-wow-delay="0.7s" data-wow-duration="1.5s">
 					<h2 class="title title--main pull-left"><span class="title__bold">Biker</span>ClubListings<span class="line line--title"><span class="line__first"></span><span class="line__second"></span></span></h2>
@@ -565,9 +565,9 @@ MA TRADING, is a dedicated bike products importer, wholesaler and distributor to
 					</div>
 				</div>
 			</div>
-		</section><!--listings-->
+		</section> --><!--listings-->
 
-		<section class="blog blog--home">
+		<!--  <section class="blog blog--home">
 			<div class="container-fluid no-padding">
 				<div class="row row--no-padding">
 					<div class="col-lg-4 col-xs-12 wow fadeInLeft" data-wow-delay="0.7s" data-wow-duration="1.5s">
@@ -647,7 +647,7 @@ MA TRADING, is a dedicated bike products importer, wholesaler and distributor to
 					</div>
 				</div>
 			</div>
-		</section><!--blog-->
+		</section> --><!--blog -->
 
 		<section class="partners">
 			<div class="container">
@@ -778,7 +778,7 @@ MA TRADING, is a dedicated bike products importer, wholesaler and distributor to
 							</a>
 						</div>
 						<div class="col-xs-8 wow slideInRight" data-wow-delay="0.7s" data-wow-duration="1.5s">
-							<div class="social social--footer social--footer-home pull-right clearfix">
+							<!-- <div class="social social--footer social--footer-home pull-right clearfix">
 								<a href="#" class="social__one square">
 									<span class="fa fa-twitter"></span>
 								</a>
@@ -794,7 +794,7 @@ MA TRADING, is a dedicated bike products importer, wholesaler and distributor to
 								<a href="#" class="social__one square">
 									<span class="fa fa-instagram"></span>
 								</a>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
