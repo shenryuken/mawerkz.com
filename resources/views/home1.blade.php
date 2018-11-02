@@ -680,6 +680,7 @@ MA TRADING, is a dedicated bike products importer, wholesaler and distributor to
 						<div class="brand">
 							<img src="{{asset('bikers_club/logos/piaggio.jpg')}}" alt="brand" />
 						</div>
+						
 					</div>
 				</div>
 			</div>
