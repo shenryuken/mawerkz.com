@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('mawerkz');
+    return view('home1');
 });
 
 Auth::routes();
